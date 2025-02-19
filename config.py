@@ -7,22 +7,22 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = API_ID
-API_HASH = "API_HASH"
+API_ID = 24265373
+API_HASH = "7c92b8c32db9560c4569ccb297e3edab"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "8045771635:AAHHYxmn-e2Nab_0zZATL3PsYq9T1u4HcZw"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "MONGO_DB_URI"
+MONGO_DB_URI = "mongodb+srv://midhunx3:midhunx3@cluster0.dhxb5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = LOG_GROUP_ID
+LOG_GROUP_ID = -1002193329336
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = OWNER_ID
+OWNER_ID = @Midhuuuuuvee
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQFyQp0AwXMI4WG1uhJ_p52UpW7kLC3xxM8qo3cfSw1pqJlxX58zQH5LgXVa6foySl-pq1_-qKiax3ByNGC8B_2OvVBXTCxlEck79-kIwZ1rF9d0iXbKMu0mTzHNkfmfINnHGgq_tCX1agaVDxq20fXBm1cjJamk3vB8iE8F0NfkGIHRm-ub2T87IYOrlMXLDVWZvA2e9P3Yl11PDtLNHExdT3wuSpKJX56w21Kz2ELtHs6t65Xx4F2bZ2ivxoygWfSvNPwRG0NnA3dyCP-2EoEf5npRpK_AU6jsWaj64UER-vWwgbRR2iIUNLOWZ1J4lg8RamC30OA6wHjfe58UdWyUZgeiZgAAAAHT9brwAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -77,11 +77,11 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://graph.org/file/ac24fbcead2f7b9ad030d-2822b963696b97f99f.jpg"
 
-PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PING_IMG_URL = "https://graph.org/file/ac24fbcead2f7b9ad030d-2822b963696b97f99f.jpg"
 
-PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/ac24fbcead2f7b9ad030d-2822b963696b97f99f.jpg"
 STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
