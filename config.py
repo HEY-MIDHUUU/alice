@@ -11,7 +11,7 @@ API_ID = 24265373
 API_HASH = "7c92b8c32db9560c4569ccb297e3edab"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "8045771635:AAHHYxmn-e2Nab_0zZATL3PsYq9T1u4HcZw"
+BOT_TOKEN = "7961384088:AAG5CLBOY_4wgJFsjwsNu49fdhTgeS54pO0"
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "mongodb+srv://midhunx3:midhunx3@cluster0.dhxb5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
@@ -22,7 +22,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOG_GROUP_ID = -1002193329336
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = 7851064048
+OWNER_ID = 8127073440
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "BQFyQp0AwXMI4WG1uhJ_p52UpW7kLC3xxM8qo3cfSw1pqJlxX58zQH5LgXVa6foySl-pq1_-qKiax3ByNGC8B_2OvVBXTCxlEck79-kIwZ1rF9d0iXbKMu0mTzHNkfmfINnHGgq_tCX1agaVDxq20fXBm1cjJamk3vB8iE8F0NfkGIHRm-ub2T87IYOrlMXLDVWZvA2e9P3Yl11PDtLNHExdT3wuSpKJX56w21Kz2ELtHs6t65Xx4F2bZ2ivxoygWfSvNPwRG0NnA3dyCP-2EoEf5npRpK_AU6jsWaj64UER-vWwgbRR2iIUNLOWZ1J4lg8RamC30OA6wHjfe58UdWyUZgeiZgAAAAHT9brwAA"
+STRING1 = "BQFyQp0Ao06G6Ze8Mnuzb28ptQyeqAYo1JUKXmzdopkT1zoQDAXTtdPunvmvkVQaWBy795d46kBpVMwjtvlEKJBzYT-P0N9R5YcDlKg4e82HB00E8FyEHqdL3emSEkAhrlu4yactdwAYQXiLeiiI6W69Kv9kGJlwLVzcE1KeQEFtrNE9-tdV5qUDBP1KtEBWBwsOL1zaBxckpvfOkwoLfDFsMR_yWuEjf__wt_H0qJXloC079mqUqMGUaMJC47umWbkflqEcSdXEmeNIjvFFyronBY59yjtZhXxxie0vTyITmmnKjA5pDdwfG72VfDCnZv6UslhZxttTzW697ZPZjKxArNc-vQAAAAHkaUygAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
